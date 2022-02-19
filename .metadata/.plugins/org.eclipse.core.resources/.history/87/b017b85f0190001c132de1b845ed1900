@@ -1,0 +1,5 @@
+package com.microservices.demo.userservice;
+
+public class CreateUserService {
+
+}
