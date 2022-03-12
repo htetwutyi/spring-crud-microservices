@@ -1,5 +1,0 @@
-package com.microservices.demo.ui.controller;
-
-public class UserController {
-
-}
